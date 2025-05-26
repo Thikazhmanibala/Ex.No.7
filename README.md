@@ -30,7 +30,7 @@ o Notify user of overlapping appointments or free time slots.
 3. Wellness Tips Generator:
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
-# counclusion
+
 # 1. Core Requirements & Simple Prompts
 Features: Basic task management, scheduling, wellness tips, and queries.
 Interaction: Command-line style with natural language inputs.
